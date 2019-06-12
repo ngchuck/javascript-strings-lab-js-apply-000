@@ -1,7 +1,7 @@
 var a="Hello",
-    comma=",";
-var ex="!"
-var who="everybody"
+    comma=",",
+ ex="!",
+ who="everybody",
 var topic = "space";
 var sp=" "
 var fs="."
