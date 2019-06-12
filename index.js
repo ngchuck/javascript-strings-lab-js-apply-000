@@ -1,10 +1,10 @@
-var a="Hello",
-    comma=",",
-    ex="!",
-    who="everybody",
-    topic = "space",
-    sp=" ",
-    fs=".";
+const a="Hello",
+      comma=",",
+      ex="!",
+      who="everybody",
+      topic = "space",
+      sp=" ",
+      fs=".";
 
 var greeting = a+comma+sp+who+ex,
     specialGuest = "Neil deGrasse Tyson",
