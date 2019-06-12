@@ -1,5 +1,5 @@
-var a="Hello"
-var comma=","
+var a="Hello",
+    comma=",";
 var ex="!"
 var who="everybody"
 var topic = "space";
