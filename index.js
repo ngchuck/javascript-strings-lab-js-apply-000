@@ -1,10 +1,10 @@
 var a="Hello",
     comma=",",
- ex="!",
- who="everybody",
-var topic = "space";
-var sp=" "
-var fs="."
+    ex="!",
+    who="everybody",
+    topic = "space",
+    sp=" ",
+    fs=".";
 
 var greeting = a+comma+sp+who+ex;
 
