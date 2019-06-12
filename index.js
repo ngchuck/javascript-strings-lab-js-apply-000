@@ -7,6 +7,6 @@ var a="Hello",
     fs=".";
 
 var greeting = a+comma+sp+who+ex,
-    specialGuest = "Neil deGrasse Tyson";
-var greetSpecialGuest = a+comma+sp + specialGuest + "!";
-var conversation = "Let's talk about"+sp+`${topic}`+fs;
+    specialGuest = "Neil deGrasse Tyson",
+    greetSpecialGuest = a+comma+sp + specialGuest + "!",
+    conversation = "Let's talk about"+sp+`${topic}`+fs;
